@@ -1,0 +1,49 @@
+html {
+  background-color: #e6a3a3;
+  height: 100vh;
+}
+
+.container {
+  background-color: #b2a4ff;
+  margin: 100px 450px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  margin: 20px 110px 10px 110px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  background-color: #ffb4b4;
+}
+
+span {
+  color: white;
+  margin-left: 85px;
+}
+
+p {
+  color: white;
+  margin: 10px 0 2px 80px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+  margin: 0 0 5px 65px;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  padding: 15px 25px;
+}
+
+button {
+  background-color: white;
+  padding: 10px 25px;
+  margin: 20px 0 20px 120px;
+  border: none;
+  border-radius: 15px;
+}
